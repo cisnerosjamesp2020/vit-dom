@@ -20,8 +20,10 @@ document.addEventListener('DOMContentLoaded', function(event) {
 
   // Part 1
   function shortenPageTitle() {
-
+    document.getElementById('main-title').innerText = "Welcome to Dom's Page";
   }
+  shortenPageTitle();
+
 
 
   // Part 2
