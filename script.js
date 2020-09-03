@@ -28,6 +28,7 @@ document.addEventListener('DOMContentLoaded', function(event) {
 
   // Part 2
   function changeBodyBgColor() {
+    document.body.style.backgroundColor = "red";
 
   }
 
