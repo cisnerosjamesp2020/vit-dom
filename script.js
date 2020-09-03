@@ -28,9 +28,10 @@ document.addEventListener('DOMContentLoaded', function(event) {
 
   // Part 2
   function changeBodyBgColor() {
-    document.body.style.backgroundColor = "red";
+    document.body.style.backgroundColor = "green";
 
   }
+  changeBodyBgColor();
 
 
   // Part 3
