@@ -56,9 +56,3 @@ document.addEventListener('DOMContentLoaded', function(event) {
   }
 
 
-  // Part 7
-  function createNewBlogPost() {
-
-  }
-
-});
