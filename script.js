@@ -28,11 +28,10 @@ document.addEventListener('DOMContentLoaded', function(event) {
 
   // Part 2
   function changeBodyBgColor() {
-    document.body.style.backgroundColor = "green";
+    document.body.style.backgroundColor = "lime";
 
   }
   changeBodyBgColor();
-
 
   // Part 3
   function removeLastFavoriteThing() {
